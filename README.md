@@ -70,6 +70,8 @@ Wafae Bouajaja
 
 # 🔍 Détection de Phishing
 
+# 🔍 Détection de Phishing
+
 ## 🇫🇷 À propos du projet
 Ce projet a pour objectif de concevoir un **système intelligent de détection des sites de phishing** en utilisant des techniques d’apprentissage automatique.  
 En analysant des caractéristiques extraites d’URLs et de pages web, nous avons entraîné un modèle de classification basé sur **Random Forest**, puis développé une interface interactive pour faciliter son utilisation.
@@ -77,19 +79,19 @@ En analysant des caractéristiques extraites d’URLs et de pages web, nous avon
 ---
 
 ## 🚀 Fonctionnalités
-- **Prétraitement et nettoyage des données** (suppression des doublons, valeurs manquantes, colonnes inutiles)  
-- **Analyse exploratoire des données** (visualisation, corrélations, répartition des classes)  
-- **Entraînement et optimisation d’un modèle Random Forest**  
-- **Sauvegarde du modèle et du scaler** avec `joblib`  
-- **Déploiement d’une interface web** via Streamlit permettant de tester des sites en temps réel  
+🔹 **Prétraitement et nettoyage des données** (suppression des doublons, valeurs manquantes, colonnes inutiles)  
+🔹 **Analyse exploratoire des données** (visualisation, corrélations, répartition des classes)  
+🔹 **Entraînement et optimisation d’un modèle Random Forest**  
+🔹 **Sauvegarde du modèle et du scaler** avec `joblib`  
+🔹 **Déploiement d’une interface web** via Streamlit permettant de tester des sites en temps réel  
 
 ---
 
 ## 🛠️ Technologies utilisées
-- Python (pandas, numpy, scikit-learn, seaborn, matplotlib)  
-- Random Forest Classifier  
-- Streamlit pour l’interface utilisateur  
-- Joblib pour la sérialisation du modèle  
+🔹 Python (pandas, numpy, scikit-learn, seaborn, matplotlib)  
+🔹 Random Forest Classifier  
+🔹 Streamlit pour l’interface utilisateur  
+🔹 Joblib pour la sérialisation du modèle  
 
 ---
 
@@ -102,6 +104,7 @@ Il contient **11 055 enregistrements** et **31 colonnes**, dont 30 caractéristi
 ---
 
 ## 📂 Structure du projet
+
 
 detection-de-phishing/
 ├── models/                  # Modèles sauvegardés
