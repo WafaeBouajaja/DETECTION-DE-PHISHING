@@ -48,21 +48,21 @@ streamlit run untitled8_(1)_(1).py
 
 📌 Results
 
-High accuracy (>95%) achieved with Random Forest.
+- High accuracy (>95%) achieved with Random Forest.
 
-User-friendly interface to test a website and get a confidence score (legitimate or phishing).
+- User-friendly interface to test a website and get a confidence score (legitimate or phishing).
 
 🚀 Future Improvements
 
-Benchmarking with other algorithms (SVM, XGBoost, Deep Learning).
+- Benchmarking with other algorithms (SVM, XGBoost, Deep Learning).
 
-REST API integration for external applications.
+- REST API integration for external applications.
 
-Enhanced UI with more detailed visualizations.
+- Enhanced UI with more detailed visualizations.
 
-Real-time detection directly from user-provided URLs.
+- Real-time detection directly from user-provided URLs.
 
-Integration with cybersecurity tools to automatically block suspicious websites.
+- Integration with cybersecurity tools to automatically block suspicious websites.
 
 👩‍💻 Authors
 
@@ -75,25 +75,25 @@ En analysant des caractéristiques extraites d’URLs et de pages web, nous avon
 
 🚀 Fonctionnalités
 
-Prétraitement et nettoyage des données (suppression des doublons, valeurs manquantes, colonnes inutiles).
+- Prétraitement et nettoyage des données (suppression des doublons, valeurs manquantes, colonnes inutiles).
 
-Analyse exploratoire des données (visualisation, corrélations, répartition des classes).
+- Analyse exploratoire des données (visualisation, corrélations, répartition des classes).
 
-Entraînement et optimisation d’un modèle Random Forest.
+- Entraînement et optimisation d’un modèle Random Forest.
 
-Sauvegarde du modèle et du scaler avec joblib.
+- Sauvegarde du modèle et du scaler avec joblib.
 
-Déploiement d’une interface web via Streamlit permettant de tester des sites en temps réel.
+- Déploiement d’une interface web via Streamlit permettant de tester des sites en temps réel.
 
 🛠️ Technologies utilisées
 
-Python (pandas, numpy, scikit-learn, seaborn, matplotlib)
+- Python (pandas, numpy, scikit-learn, seaborn, matplotlib)
 
-Random Forest Classifier
+- Random Forest Classifier
 
-Streamlit pour l’interface utilisateur
+- Streamlit pour l’interface utilisateur
 
-Joblib pour la sérialisation du modèle
+- Joblib pour la sérialisation du modèle
 
 📊 Jeu de données
 
@@ -126,21 +126,21 @@ streamlit run untitled8_(1)_(1).py
 
 📌 Résultats
 
-Précision élevée (>95%) grâce à l’algorithme Random Forest.
+- Précision élevée (>95%) grâce à l’algorithme Random Forest.
 
-Interface intuitive permettant aux utilisateurs de tester un site et d’obtenir un score de confiance (légitime ou phishing).
+- Interface intuitive permettant aux utilisateurs de tester un site et d’obtenir un score de confiance (légitime ou phishing).
 
 🚀 Perspectives / Améliorations futures
 
-Comparaison avec d’autres algorithmes (SVM, XGBoost, Deep Learning).
+- Comparaison avec d’autres algorithmes (SVM, XGBoost, Deep Learning).
 
-Intégration d’une API REST pour une utilisation dans d’autres applications.
+- Intégration d’une API REST pour une utilisation dans d’autres applications.
 
-Amélioration de l’interface utilisateur (visualisations plus détaillées).
+- Amélioration de l’interface utilisateur (visualisations plus détaillées).
 
-Détection en temps réel directement à partir d’URL saisies par l’utilisateur.
+- Détection en temps réel directement à partir d’URL saisies par l’utilisateur.
 
-Intégration avec un système de cybersécurité pour bloquer automatiquement les sites suspects.
+- Intégration avec un système de cybersécurité pour bloquer automatiquement les sites suspects.
 
 👩‍💻 Auteurs
 
