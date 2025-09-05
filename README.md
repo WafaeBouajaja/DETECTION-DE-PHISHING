@@ -46,7 +46,7 @@ python untitled8_(1)_(1).py
 4. Launch the Streamlit app
 streamlit run untitled8_(1)_(1).py
 
-## 📌 Results
+##📌 Results
 
 - High accuracy (>95%) achieved with Random Forest.
 
