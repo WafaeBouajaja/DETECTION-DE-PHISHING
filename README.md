@@ -46,13 +46,13 @@ python untitled8_(1)_(1).py
 4. Launch the Streamlit app
 streamlit run untitled8_(1)_(1).py
 
-📌 Results
+## 📌 Results
 
 - High accuracy (>95%) achieved with Random Forest.
 
 - User-friendly interface to test a website and get a confidence score (legitimate or phishing).
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Benchmarking with other algorithms (SVM, XGBoost, Deep Learning).
 
@@ -64,7 +64,7 @@ streamlit run untitled8_(1)_(1).py
 
 - Integration with cybersecurity tools to automatically block suspicious websites.
 
-👩‍💻 Authors
+## 👩‍💻 Authors
 
 Wafae Bouajaja
 
@@ -73,7 +73,7 @@ Wafae Bouajaja
 Ce projet a pour objectif de concevoir un système intelligent de détection des sites de phishing en utilisant des techniques d’apprentissage automatique.
 En analysant des caractéristiques extraites d’URLs et de pages web, nous avons entraîné un modèle de classification basé sur Random Forest, puis développé une interface interactive pour faciliter son utilisation.
 
-🚀 Fonctionnalités
+## 🚀 Fonctionnalités
 
 - Prétraitement et nettoyage des données (suppression des doublons, valeurs manquantes, colonnes inutiles).
 
@@ -85,7 +85,7 @@ En analysant des caractéristiques extraites d’URLs et de pages web, nous avon
 
 - Déploiement d’une interface web via Streamlit permettant de tester des sites en temps réel.
 
-🛠️ Technologies utilisées
+"## 🛠️ Technologies utilisées
 
 - Python (pandas, numpy, scikit-learn, seaborn, matplotlib)
 
@@ -95,14 +95,14 @@ En analysant des caractéristiques extraites d’URLs et de pages web, nous avon
 
 - Joblib pour la sérialisation du modèle
 
-📊 Jeu de données
+## 📊 Jeu de données
 
 Le dataset utilisé provient de Kaggle :
 👉 Phishing Website Detector
 
 Il contient 11 055 enregistrements et 31 colonnes, dont 30 caractéristiques et 1 variable cible (class : phishing ou légitime).
 
-📂 Structure du projet
+## 📂 Structure du projet
 detection-de-phishing/
 ├── models/                  # Modèles sauvegardés
 ├── phishing.csv             # Dataset (optionnel)
@@ -124,13 +124,13 @@ python untitled8_(1)_(1).py
 4. Lancer l’application Streamlit
 streamlit run untitled8_(1)_(1).py
 
-📌 Résultats
+## 📌 Résultats
 
 - Précision élevée (>95%) grâce à l’algorithme Random Forest.
 
 - Interface intuitive permettant aux utilisateurs de tester un site et d’obtenir un score de confiance (légitime ou phishing).
 
-🚀 Perspectives / Améliorations futures
+## 🚀 Perspectives / Améliorations futures
 
 - Comparaison avec d’autres algorithmes (SVM, XGBoost, Deep Learning).
 
@@ -142,6 +142,6 @@ streamlit run untitled8_(1)_(1).py
 
 - Intégration avec un système de cybersécurité pour bloquer automatiquement les sites suspects.
 
-👩‍💻 Auteurs
+## 👩‍💻 Auteurs
 
 Wafae Bouajaja
